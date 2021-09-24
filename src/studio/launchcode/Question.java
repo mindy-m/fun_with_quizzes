@@ -17,4 +17,16 @@ public class Question {
     Make sure that there is functionality included to display the questions, to display the
     possible answers, and to check to see if the answer(s) is correct.
      */
+
+    public class MultipleChoice extends Question {
+
+    }
+
+    public class Checkbox extends Question {
+
+    }
+
+    public class TrueFalse extends Question {
+
+    }
 }
