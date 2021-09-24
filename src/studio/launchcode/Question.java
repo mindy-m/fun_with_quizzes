@@ -5,4 +5,9 @@ package studio.launchcode;
 
 public class Question {
 
+    private int numberOfQuestions;
+    private int correctAnswers;
+    private ArrayList<Question> questions;
+
+    public Quiz
 }

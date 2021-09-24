@@ -1,5 +1,7 @@
 package studio.launchcode;
 
+import java.util.*;
+
 public class Checkbox extends Question {
     /* For each question type be sure to include:
 
